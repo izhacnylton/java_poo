@@ -1,5 +1,7 @@
 package br.gov.cetam.modelo.app;
-import br.gov.cetam.servico.ControlavelAmbiental;
+
+import br.gov.cetam.modelo.Carro;
+import br.gov.cetam.modelo.Caminhao;
 
 public class MainHeranca{
     public static void main(String[] args) {
