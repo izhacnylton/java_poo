@@ -1,5 +1,5 @@
 //Herança
-//package br.gov.cetam.modelo;
+package br.gov.cetam.modelo;
 
 import br.gov.cetam.servico.ControlavelAmbiental;
 

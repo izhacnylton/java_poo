@@ -1,4 +1,4 @@
-//package br.gov.cetam.modelo;
+package br.gov.cetam.modelo;
 
 public abstract class Automovel{ //Nome da classe
     //Atributos recebem o tipo de dado e o nome do atributo

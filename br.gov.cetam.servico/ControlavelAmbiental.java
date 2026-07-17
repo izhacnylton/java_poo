@@ -1,4 +1,4 @@
-//package br.gov.cetam.servico
+package br.gov.cetam.servico;
 
 public interface ControlavelAmbiental {
     void realizarVistoriaGases();
