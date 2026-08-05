@@ -9,10 +9,10 @@ public class Automovel{ //Nome da classe
 
         //2.construtor da classe Automovel
     public Automovel(String marca, String modelo, int ano, double preco){ //Construtor
-        this.marca = "Fiat";
-        this.modelo = "Mobi";
-        this.ano = 2015;
-        this.preco = 11000;
+        this.marca = marca;
+        this.modelo = modelo;
+        this.ano = ano;
+        this.preco = preco;
         this.motorLigado = false; //atributo booleano recebe false
     }
 
